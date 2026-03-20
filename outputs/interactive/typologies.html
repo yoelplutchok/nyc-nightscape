@@ -113,6 +113,9 @@
   @media (max-width: 900px) {
     #panel { width: 380px; min-width: 380px; }
   }
+  .repo-footer { position: fixed; bottom: 0; left: 0; right: 0; text-align: center; padding: 6px; background: rgba(15,23,42,0.9); border-top: 1px solid #334155; font-size: 11px; color: #64748b; z-index: 9999; }
+  .repo-footer a { color: #94a3b8; text-decoration: none; }
+  .repo-footer a:hover { color: #ed8936; }
 </style>
 </head>
 <body>
@@ -390,5 +393,6 @@ initMap();
 buildMapLegend();
 initRadar();
 </script>
+<div class="repo-footer"><a href="https://github.com/yoelplutchok/nyc-nightscape" target="_blank">github.com/yoelplutchok/nyc-nightscape</a></div>
 </body>
 </html>

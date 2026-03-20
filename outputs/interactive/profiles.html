@@ -127,6 +127,9 @@
     .stats-grid { grid-template-columns: 1fr; }
     #cd-select { min-width: 100%; }
   }
+  .repo-footer { text-align: center; padding: 16px; border-top: 1px solid #334155; font-size: 11px; color: #64748b; margin-top: 32px; }
+  .repo-footer a { color: #94a3b8; text-decoration: none; }
+  .repo-footer a:hover { color: #ed8936; }
 </style>
 </head>
 <body>
@@ -425,5 +428,6 @@ select.addEventListener('change', () => renderProfile(parseInt(select.value)));
 // Default to first CD
 renderProfile(parseInt(select.value));
 </script>
+<div class="repo-footer"><a href="https://github.com/yoelplutchok/nyc-nightscape" target="_blank">github.com/yoelplutchok/nyc-nightscape</a></div>
 </body>
 </html>
