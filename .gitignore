@@ -1,0 +1,54 @@
+# Data (too large for git)
+data/raw/
+data/intermediate/
+data/processed/reports/*.parquet
+data/processed/equity/*.parquet
+
+# Keep geo boundaries and metadata in git
+!data/processed/geo/
+!data/processed/metadata/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+*~
+
+# Documentation / review files
+*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/*.jsonl
+
+# Outputs (regenerable)
+outputs/figures/
+outputs/tables/
+outputs/interactive/
+
+# Temp files from atomic writes
+.*_tmp

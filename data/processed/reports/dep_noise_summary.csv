@@ -1,0 +1,31 @@
+level,name,broad_theme,count,pct_of_total
+category,Construction Before/After Hours,Construction,119392,38.61
+category,Construction Equipment,Construction,45972,14.87
+category,Barking Dog,Animals,43567,14.09
+category,Alarms,Alarms,32720,10.58
+category,air condition/ventilation equipment,HVAC/Mechanical,25520,8.25
+category,Jack Hammering,Construction,15064,4.87
+category,Ice Cream Truck,Commercial Vehicle,8902,2.88
+category,lawn care equipment,Outdoor Equipment,6567,2.12
+category,Private Carting Noise,Commercial Operations,5229,1.69
+category,"Boat(Engine,Music,Etc)",Waterway,2190,0.71
+category,Manufacturing Noise,Industrial,2093,0.68
+category,Other Animals,Animals,1735,0.56
+category,Other Noise Sources (Use Comments),Other,125,0.04
+category,Noise,Other,120,0.04
+category,Boat,Waterway,12,0.0
+category,Vehicle,Other,6,0.0
+category,Loud Music/Daytime (Mark Date And Time),Other,4,0.0
+category,Loud Music From Siebel System - For Dep Internal Use Only,Other,2,0.0
+theme,Construction,Construction,180428,58.35
+theme,Animals,Animals,45302,14.65
+theme,Alarms,Alarms,32720,10.58
+theme,HVAC/Mechanical,HVAC/Mechanical,25520,8.25
+theme,Commercial Vehicle,Commercial Vehicle,8902,2.88
+theme,Outdoor Equipment,Outdoor Equipment,6567,2.12
+theme,Commercial Operations,Commercial Operations,5229,1.69
+theme,Waterway,Waterway,2202,0.71
+theme,Industrial,Industrial,2093,0.68
+theme,Other,Other,257,0.08
+comparison,DEP total complaints,ALL,309220,100.0
+comparison,DEP unique themes (not in 311),"Alarms, Animals, Commercial Operations, Commercial Vehicle, Construction, HVAC/Mechanical, Industrial, Outdoor Equipment, Waterway",308963,99.92

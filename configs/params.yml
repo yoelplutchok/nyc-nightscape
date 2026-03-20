@@ -1,0 +1,51 @@
+time_windows:
+  primary:
+    year_start: 2021
+    year_end: 2023
+    label: "2021-2023"
+  nighttime:
+    start_hour: 22    # 10 PM
+    end_hour: 7       # 7 AM
+    label: "22:00-07:00"
+  late_night:
+    start_hour: 1     # 1 AM
+    end_hour: 5       # 5 AM
+    label: "01:00-05:00"
+
+geography:
+  unit: community_district
+  n_units: 59
+  crs: "EPSG:4326"
+  crs_projected: "EPSG:2263"
+
+analysis:
+  min_n_correlation: 10
+  fdr_alpha: 0.05
+  fdr_method: "fdr_bh"
+  winsorize_pct: 0.01
+  random_seed: 42
+  lisa_permutations: 999
+
+nightscape_index:
+  dimensions:
+    noise_exposure: 0.20
+    safety: 0.25
+    lighting: 0.10
+    transit_access: 0.15
+    environmental: 0.15
+    services: 0.15
+
+# Path to legacy source repo (set via env var or override locally)
+source_repo: null
+
+bounds_checks:
+  epsg_4326:
+    lon_min: -75.0
+    lon_max: -73.0
+    lat_min: 40.0
+    lat_max: 41.5
+  epsg_2263:
+    x_min: 900000
+    x_max: 1100000
+    y_min: 110000
+    y_max: 280000

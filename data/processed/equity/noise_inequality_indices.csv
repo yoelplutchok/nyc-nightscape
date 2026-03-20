@@ -1,0 +1,22 @@
+metric,scope,index,value
+pct_above_65dB,Citywide,Gini,0.6278441286687138
+pct_above_65dB,Manhattan,Gini,0.46131749502829716
+pct_above_65dB,Bronx,Gini,0.6036424218068445
+pct_above_65dB,Brooklyn,Gini,0.6864563668011069
+pct_above_65dB,Queens,Gini,0.633801037507354
+pct_above_65dB,Staten Island,Gini,0.6283879167644819
+pct_above_65dB,Citywide,Theil_T_total,0.6422687460050135
+pct_above_65dB,Citywide,Theil_T_between_boro,0.04852428835243684
+pct_above_65dB,Citywide,Theil_T_within_boro,0.5937444576525767
+exposure_index,Citywide,Gini,0.036509087039103744
+exposure_index,Manhattan,Gini,0.025642590408885106
+exposure_index,Bronx,Gini,0.034327045409576026
+exposure_index,Brooklyn,Gini,0.02465787781117967
+exposure_index,Queens,Gini,0.04421052318575802
+exposure_index,Staten Island,Gini,0.020079415776236183
+exposure_index,Citywide,Theil_T_total,0.0021708564631684616
+exposure_index,Citywide,Theil_T_between_boro,0.0001455133555013967
+exposure_index,Citywide,Theil_T_within_boro,0.0020253431076670695
+noise_obj_db_mean,Citywide,Concentration_by_poverty,0.0005712868653062753
+dot_pct_above_65dB,Citywide,Concentration_by_poverty,0.0092002496867587
+rate_per_1k_pop,Citywide,Concentration_by_poverty,0.12534108867580507

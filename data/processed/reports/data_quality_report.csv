@@ -1,0 +1,141 @@
+status,detail
+INFO,"Columns with missing: {'nighttime_crimes_total': np.int64(1), 'crimes_per_year': np.int64(1), 'felonies': np.int64(1), 'misdemeanors': np.int64(1), 'felony_share': np.int64(1), 'crime_rate_per_1k': np.int64(1), 'violent_crimes': np.int64(1), 'violent_rate_per_1k': np.int64(1), 'total_violations': np.int64(3), 'dep_violations': np.int64(3), 'nypd_violations': np.int64(3), 'violation_rate_per_1k': np.int64(3), 'mean_volume': np.int64(6), 'median_volume': np.int64(6)}"
+WARN,area_km2: 2 values > 3 SD (max=55.77)
+WARN,radiance_raw: 1 values > 3 SD (max=198.29)
+WARN,z_light: 1 values > 3 SD (max=4.73)
+WARN,z_air: 1 values > 3 SD (max=4.72)
+WARN,dot_pct_above_65dB: 1 values > 3 SD (max=0.24)
+WARN,rate_per_1k_pop: 1 values > 3 SD (max=259.06)
+WARN,rate_per_km2: 1 values > 3 SD (max=3626.50)
+WARN,late_night_share: 1 values > 3 SD (max=0.34)
+WARN,warm_season_ratio: 2 values > 3 SD (max=2.74)
+WARN,no2_mean_primary: 1 values > 3 SD (max=25.00)
+WARN,pm25_mean_primary: 2 values > 3 SD (max=8.65)
+WARN,crime_rate_per_1k: 1 values > 3 SD (max=78.88)
+WARN,violent_rate_per_1k: 1 values > 3 SD (max=25.83)
+WARN,shots_total: 1 values > 3 SD (max=5214.00)
+WARN,shots_per_year: 1 values > 3 SD (max=1738.00)
+WARN,shots_nighttime: 1 values > 3 SD (max=2467.00)
+WARN,total_licenses: 1 values > 3 SD (max=2367.00)
+WARN,on_premises_count: 1 values > 3 SD (max=1701.00)
+WARN,license_rate_per_1k_pop: 1 values > 3 SD (max=46.92)
+WARN,on_premises_rate_per_1k_pop: 1 values > 3 SD (max=33.72)
+WARN,ahv_total_permits: 1 values > 3 SD (max=89079.00)
+WARN,ahv_nighttime_permits: 1 values > 3 SD (max=8893.00)
+WARN,total_permits: 1 values > 3 SD (max=39763.00)
+WARN,permits_per_year: 1 values > 3 SD (max=13254.33)
+WARN,mean_volume: 1 values > 3 SD (max=323.76)
+WARN,mean_floors: 2 values > 3 SD (max=12.60)
+WARN,total_res_units: 1 values > 3 SD (max=151425.00)
+WARN,depression: 1 values > 3 SD (max=4.35)
+WARN,nycha_pop_share: 2 values > 3 SD (max=0.05)
+WARN,nycha_buildings: 1 values > 3 SD (max=295.00)
+WARN,Loud Music/Party: 1 values > 3 SD (max=153177.00)
+WARN,Loud Talking: 1 values > 3 SD (max=9122.00)
+WARN,Banging/Pounding: 1 values > 3 SD (max=15584.00)
+WARN,Car/Truck Music: 2 values > 3 SD (max=15385.00)
+WARN,Car/Truck Horn: 1 values > 3 SD (max=16655.00)
+WARN,Engine Idling: 2 values > 3 SD (max=2611.00)
+WARN,res_summons_issued_share: 1 values > 3 SD (max=0.17)
+WARN,median_response_hours: 1 values > 3 SD (max=2.86)
+WARN,crash_count: 2 values > 3 SD (max=3738.00)
+WARN,persons_injured: 1 values > 3 SD (max=1914.00)
+WARN,ped_injured: 1 values > 3 SD (max=239.00)
+WARN,cyclist_injured: 1 values > 3 SD (max=179.00)
+WARN,crash_rate_per_1k: 1 values > 3 SD (max=8.97)
+WARN,injury_rate_per_1k: 1 values > 3 SD (max=4.33)
+WARN,night_crash_severity: 1 values > 3 SD (max=0.31)
+WARN,non_noise_311_count: 1 values > 3 SD (max=44721.00)
+WARN,homeless_count: 1 values > 3 SD (max=5531.00)
+WARN,streetlight_count: 1 values > 3 SD (max=662.00)
+WARN,drug_alcohol_count: 1 values > 3 SD (max=2407.00)
+WARN,quality_of_life_count: 1 values > 3 SD (max=32576.00)
+WARN,non_noise_311_per_1k: 1 values > 3 SD (max=116.31)
+WARN,homeless_per_1k: 1 values > 3 SD (max=36.54)
+WARN,fire_incidents_night_per_1k: 1 values > 3 SD (max=88.65)
+WARN,streetlight_complaints: 1 values > 3 SD (max=662.00)
+WARN,streetlight_complaints_per_km2: 1 values > 3 SD (max=27.16)
+WARN,late_night_ridership: 1 values > 3 SD (max=64457963.00)
+WARN,subway_stations: 1 values > 3 SD (max=22.00)
+WARN,pct_ridership_late_night: 1 values > 3 SD (max=100.00)
+WARN,late_night_entries_per_1k: 1 values > 3 SD (max=425886.77)
+WARN,subway_stations_per_km2: 1 values > 3 SD (max=5.41)
+WARN,taxi_trips_night: 1 values > 3 SD (max=916566.00)
+WARN,rideshare_trips_night: 1 values > 3 SD (max=2759693.00)
+WARN,total_ride_trips_night: 2 values > 3 SD (max=3676259.00)
+WARN,taxi_pickups_night_per_1k: 1 values > 3 SD (max=24223.75)
+WARN,rideshare_pickups_night_per_1k: 1 values > 3 SD (max=72935.39)
+WARN,total_ride_pickups_night_per_1k: 1 values > 3 SD (max=97159.14)
+WARN,rideshare_to_taxi_ratio: 1 values > 3 SD (max=1865.92)
+WARN,arrest_count: 1 values > 3 SD (max=25199.00)
+WARN,felony_arrests: 1 values > 3 SD (max=11000.00)
+WARN,drug_arrests: 1 values > 3 SD (max=3272.00)
+WARN,dui_arrests: 1 values > 3 SD (max=392.00)
+WARN,arrest_rate_per_1k: 1 values > 3 SD (max=119.29)
+WARN,felony_arrest_rate_per_1k: 1 values > 3 SD (max=43.68)
+WARN,drug_arrest_rate_per_1k: 2 values > 3 SD (max=8.70)
+WARN,all_hours_arrest_to_night_crime_ratio: 2 values > 3 SD (max=5.95)
+WARN,citibike_trips_night: 2 values > 3 SD (max=1106609.00)
+WARN,citibike_stations: 1 values > 3 SD (max=7084.00)
+WARN,citibike_trips_night_per_1k: 2 values > 3 SD (max=5690.68)
+WARN,citibike_stations_per_km2: 1 values > 3 SD (max=1741.30)
+WARN,night_film_permits: 3 values > 3 SD (max=661.00)
+WARN,film_activity_per_1k: 1 values > 3 SD (max=3.89)
+WARN,restaurant_count: 1 values > 3 SD (max=2989.00)
+WARN,late_night_food_count: 2 values > 3 SD (max=604.00)
+WARN,restaurants_per_1k: 1 values > 3 SD (max=59.25)
+WARN,late_night_food_per_1k: 1 values > 3 SD (max=11.95)
+WARN,commercial_waste_zone_pct: 2 values > 3 SD (max=99.70)
+WARN,energy_use_per_sqft: 1 values > 3 SD (max=132.56)
+WARN,electricity_use_per_sqft: 2 values > 3 SD (max=56.99)
+WARN,large_buildings_per_km2: 1 values > 3 SD (max=387.64)
+WARN,helicopter_complaints_night: 1 values > 3 SD (max=4276.00)
+WARN,helicopter_complaints_night_per_1k: 3 values > 3 SD (max=6.46)
+WARN,helicopter_pct_of_noise: 2 values > 3 SD (max=19.42)
+WARN,subway_stations_late_night: 1 values > 3 SD (max=30.00)
+WARN,subway_last_train_hour: 2 values > 3 SD (max=0.00)
+WARN,late_night_transit_gap: 2 values > 3 SD (max=1.00)
+WARN,wifi_hotspots: 1 values > 3 SD (max=234.00)
+WARN,linknyc_kiosks: 3 values > 3 SD (max=203.00)
+WARN,wifi_hotspots_per_km2: 2 values > 3 SD (max=58.92)
+WARN,linknyc_kiosks_per_1k: 1 values > 3 SD (max=3.67)
+PASS,"VIIRS vs streetlight complaints: r=0.553, p=0.0000"
+PASS,"Crime rate vs arrest rate: r=0.805, p=0.0000"
+PASS,"Subway ridership vs stations: r=0.698, p=0.0000"
+PASS,"Bars vs restaurants: r=0.902, p=0.0000"
+PASS,"Taxi vs rideshare: r=0.845, p=0.0000"
+PASS,"Pop density vs ride pickups: r=0.567, p=0.0000"
+PASS,"Fire incidents vs EMS response: r=0.481, p=0.0001"
+WARN,"borough: only 5 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"total_violations: only 4 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"dep_violations: only 4 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"nypd_violations: only 3 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"violation_rate_per_1k: only 4 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"transit_desert_flag: only 2 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"citibike_coverage_flag: only 2 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"commercial_waste_zone_pct: only 4 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"subway_last_train_hour: only 2 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"late_night_transit_gap: only 2 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"ems_response_min_night: only 5 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"ems_response_min_day: only 5 unique values — likely borough-level, CD-level correlations unreliable"
+WARN,"ems_night_day_response_ratio: only 5 unique values — likely borough-level, CD-level correlations unreliable"
+PASS,crime_rate_per_1k consistent with raw counts (max diff=0.0048)
+PASS,"depression: all values within [0, 100]"
+FAIL,"heavy_drinking: 0 below 0, 58 above 100 — possible scale/unit error"
+FAIL,"obesity: 0 below 0, 59 above 100 — possible scale/unit error"
+FAIL,"poor_health: 0 below 0, 59 above 100 — possible scale/unit error"
+PASS,"felony_share: all values within [0, 1]"
+PASS,"ahv_nighttime_share: all values within [0, 1]"
+PASS,"shots_nighttime_share: all values within [0, 1]"
+PASS,"pct_ridership_late_night: all values within [0, 100]"
+PASS,"commercial_waste_zone_pct: all values within [0, 100]"
+PASS,Total crimes >= violent crimes: consistent
+PASS,Arrests >= felony arrests: consistent
+PASS,Arrests >= drug arrests: consistent
+PASS,Arrests >= DUI arrests: consistent
+PASS,AHV total >= nighttime permits: consistent
+PASS,EMS total >= EMS nighttime: consistent
+PASS,Fire total >= fire nighttime: consistent
+PASS,Shots total >= shots nighttime: consistent
+PASS,TLC trip totals consistent (max diff=0.0000)
+WARN,arrest_count is all-hours data (not nighttime-filtered) — direct comparison with nighttime-only metrics may be misleading
